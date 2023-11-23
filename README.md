@@ -8,8 +8,8 @@ Hey, I'm Sohail from Kuala Lumpur, Malaysia, a student passionate about the fusi
 
 ### Skills and Experience
 ⚙ React
-💻 HTML , CSS , JS
-🌐 PHP, Laravel
+*💻 HTML , CSS , JS
+*🌐 PHP, Laravel
 
 
 
