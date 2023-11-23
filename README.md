@@ -12,10 +12,6 @@ Hey, I'm Sohail from Kuala Lumpur, Malaysia, a student passionate about the fusi
 * 💻 HTML , CSS , JS
 * 🌐 PHP, Laravel
 
-# Examples of Work
-<img src="">
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-s-sidhu)](https://github.com/anuraghazra/github-readme-stats)
