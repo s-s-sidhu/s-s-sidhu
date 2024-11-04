@@ -10,7 +10,6 @@ As an aspiring full-stack developer, I am deeply invested in the intricate world
 
 * ⚙ React
 * 💻 HTML , CSS , JS
-* 🌐 PHP, Laravel
 
 
 
